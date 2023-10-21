@@ -27,5 +27,5 @@ The "context" project aims to create an educational tool for simplifying the pro
     - Visually inspect the graph
     - Natural language interface (chat) with RAG
   
-5. **Phase 5: Feedback Loop**
+5. **Step 5: Feedback Loop**
     - Enable users to provide feedback on auto-generated knowledge graph connections and embeddings for continuous improvement
