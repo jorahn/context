@@ -1,5 +1,5 @@
 # Context - Knowledge Management App
-![context logo](https://github.com/jorahn/context/raw/main/IMG_5899.webp)
+![context logo](https://github.com/jorahn/context/raw/main/logo.webp)
 
 ## Overview
 The "context" project aims to create an educational tool for simplifying the process of knowledge management.
